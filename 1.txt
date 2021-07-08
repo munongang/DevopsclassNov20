@@ -1,2 +1,7 @@
 This is from windows system where the remote repo was cloned.
+<<<<<<< HEAD
 adding this line on windows without pulling changes from remote to see the outcome
+=======
+
+This line is from the centos system where a pull request was initiated and this line added and push to the main branch.
+>>>>>>> cf1b7d2fb75bfb348c60d7bb7365c27dc83a881f
